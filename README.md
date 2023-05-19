@@ -14,7 +14,7 @@ This is an educational project. AI prompting tool for modern world to discover, 
 
 To Visit App:
 
-Deployed in **Vercel** - `https://promptopia-kzkas0ugs-n1kford.vercel.app`
+Deployed in **Vercel** - `https://promptopia-lilac-seven.vercel.app`
 
 #
 
