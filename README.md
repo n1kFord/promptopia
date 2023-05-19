@@ -1,34 +1,23 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# promptopia
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### About:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This is an educational project. AI prompting tool for modern world to discover, create and share creative prompts.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Frontend** is fully responsive for all devices, **TailwindCSS** is also used as a styling approach.
 
-## Learn More
+#
 
-To learn more about Next.js, take a look at the following resources:
+To Visit App:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deployed in **Vercel** - `https://promptopia-kzkas0ugs-n1kford.vercel.app`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#
 
-## Deploy on Vercel
+![Preview](https://i.ibb.co/9YbX867/2023-05-19-19-14-33.png)
+![Preview](https://i.ibb.co/b6g7s7y/2023-05-19-19-14-40.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
